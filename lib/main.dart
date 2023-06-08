@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:jobsapp/views/job_details_view.dart';
+import 'package:jobsapp/views/job_details/job_details_view.dart';
 import 'package:jobsapp/views/tabview/tab_view.dart';
 
 void main() {
